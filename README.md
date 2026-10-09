@@ -82,8 +82,10 @@ ADIP-ingestion-lab/
 The **Data Ingestion Lab** is a foundational milestone in the broader **ADIP (Automated Data Intelligence Platform)** architecture.  
 It demonstrates the evolution of autonomous data pipelines capable of ingesting, cleaning, and unifying multi-source information — forming the core of adaptive, intelligent systems.
 
+<img width="1406" height="1988" alt="mermaid (3)" src="https://github.com/user-attachments/assets/9590e8fe-b429-4a48-ba97-d666de6e47ef" />
+ 
 ## 🧠 Author
-Charles — Technologist | Data Engineer | Data Scientist | AI Systems Architect
+Charles — Python Engineer | Data & systems Engineer  | Applied AI   
 A relentless pursuer of mastery in automation, intelligence engineering, and data systems design.
 This lab is part of a broader journey to engineer autonomy in digital ecosystems and create reusable, intelligent infrastructure for global industries.
 
